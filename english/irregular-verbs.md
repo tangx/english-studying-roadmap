@@ -1,0 +1,130 @@
+## 过去式 = 过去分词 = 原形
+
+| 原形 | 过去式 | 过去分词 | 汉语意思   |
+|------|--------|----------|------------|
+| bet  | bet    | bet      | 打赌       |
+| cost | cost   | cost     | 耗费（钱） |
+| cut  | cut    | cut      | 切、割     |
+| hit  | hit    | hit      | 击打、撞   |
+| hurt | hurt   | hurt     | 使…伤痛    |
+| let  | let    | let      | 让         |
+| put  | put    | put      | 放         |
+| read | read   | read     | 读         |
+| set  | set    | set      | 安排、安置 |
+| set  | set    | set      | 安排、安置 |
+
+## 过去式改字母， 过去分词 = 原形
+
+| 原形   | 过去式 | 过去分词 | 汉语意思 |
+|--------|--------|----------|----------|
+| become | became | becom    | 成为     |
+| come   | came   | come     | 来       |
+| run    | ran    | run      | 跑       |
+
+## 过去式改字母， 过去分词 = 原形 + en
+
+| 原形    | 过去式  | 过去分词  | 汉语意思   |
+|---------|---------|-----------|------------|
+| eat     | ate     | eaten     | 吃         |
+| fall    | fell    | fallen    | 落下       |
+| forbid  | forbade | forbidden | 禁止       |
+| forgive | forgave | forgiven  | 原谅、宽恕 |
+| give    | gave    | given     | 给         |
+| ride    | rode    | riden     | 骑         |
+| see     | saw     | seen      | 看见       |
+| write   | wrote   | written   | 写         |
+
+## 过去式改字母， 过去分词 = 过去式 + en
+
+| 原形   | 过去式 | 过去分词  | 汉语意思   |
+|--------|--------|-----------|------------|
+| break  | broke  | broken    | 打破，折断 |
+| choose | chose  | chosen    | 选择       |
+| forget | forgot | forgotten | 旺季       |
+| freeze | froze  | frozen    | 冻         |
+| speek  | spoke  | spoken    | 说         |
+| wear   | wore   | worn      | 穿         |
+
+## 原形 ow => 过去式 ew => 过去分词 n
+
+| 原形 | 过去式 | 过去分词 | 汉语意思 |
+|------|--------|----------|----------|
+| blow | blew   | blown    | 吹       |
+| draw | drew   | drawn    | 画       |
+| fly  | flew   | flown    | 飞       |
+| grow | grew   | grown    | 生长     |
+| know | knew   | known    | 知道     |
+
+
+## 原形 i => 过去式 a => 过去分词 u
+
+| 原形  | 过去式 | 过去分词 | 汉语意思       |
+|-------|--------|----------|----------------|
+| begin | began  | begun    | 开始           |
+| drink | drank  | drunk    | 喝             |
+| ring  | rang   | rung     | 门铃响，电话铃 |
+| sing  | sang   | sung     | 唱             |
+| swim  | swan   | swum     | 有用           |
+
+
+## 原形 => 过去式 ought => 过去分词 ought
+
+| 原形  | 过去式  | 过去分词 | 汉语意思   |
+|-------|---------|----------|------------|
+| bring | brought | brought  | 带来       |
+| buy   | bought  | bought   | 买         |
+| fight | fought  | fought   | 打架       |
+| seek  | sought  | sought   | 寻求、寻找 |
+| think | thought | thought  | 思考       |
+
+## 原形 => 过去式 aught => 过去分词 aught
+
+| 原形  | 过去式 | 过去分词 | 汉语意思 |
+|-------|--------|----------|----------|
+| catch | caught | caught   | 抓、捉   |
+| teach | taught | taught   | 教       |
+
+
+## 过去式改元音字母， 过去分词=过去式
+
+| 原形    | 过去式  | 过去分词 | 汉语意思   |
+|---------|---------|----------|------------|
+| dig     | dug     | dug      | 挖         |
+| feed    | fed     | fed      | 喂         |
+| find    | found   | found    | 找回，发现 |
+| get     | got     | got      | 得到       |
+| hold    | held    | held     | 拥有       |
+| lead    | led     | led      | 引导       |
+| meet    | met     | met      | 遇见       |
+| sit     | sat     | sat      | 坐         |
+| babysit | babysat | babysat  | 临时照看   |
+| win     | won     | won      | 赢         |
+
+
+## 过去式改辅音字母， 过去分词=过去式
+
+| 原形    | 过去式  | 过去分词 | 汉语意思 |
+|---------|---------|----------|----------|
+| build   | built   | built    | 建造     |
+| rebuild | rebuilt | rebuilt  | 重建     |
+| deal    | dealt   | dealt    | 处理     |
+| hear    | heard   | heard    | 听见     |
+| lend    | lent    | lent     | 借贷     |
+| make    | made    | made     | 制造     |
+| mean    | meant   | meant    | 意味着   |
+| send    | sent    | sent     | 寄、送   |
+| spend   | spent   | spent    | 花费     |
+| bend    | bent    | bent     | 使…弯曲  |
+
+
+## 过去式改字母 + t， 过去分词=过去式
+
+| 原形  | 过去式 | 过去分词 | 汉语意思 |
+|-------|--------|----------|----------|
+| feel  | felt   | felt     | 感到     |
+| keep  | kept   | kept     | 保持     |
+| leave | left   | left     | 离开     |
+| sleep | slept  | slept    | 睡       |
+| smell | smelt  | smelt    | 闻       |
+| sweep | swept  | swept    | 扫地     |
+
