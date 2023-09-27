@@ -51,3 +51,6 @@
     1. 造句： `Create 10 sentences with first and foremost`
     2. 句子解释: `How to understand the following sentence: That top from that Instagram post that went to a charity shop instead of being reworn`
 
+4. [hallelujah 输入法](https://github.com/dongyuwei/hallelujahIM) 英文拼写心里「没底」？这个输入法能把拼音补全为英文：哈利路亚输入法
+
+![](https://raw.githubusercontent.com/dongyuwei/hallelujahIM/master/snapshots/suggestions2.png)
