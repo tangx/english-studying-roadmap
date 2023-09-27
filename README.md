@@ -37,6 +37,11 @@
 2. [AI 对话](https://app.myshell.ai/) 一款根据 ChatGPT 开发的 AI 对话软件。 可以进行口语练习、 纠正。
 
 
+## 工具书
+
+1. [《英语阅读参考手册》（叶永昌）](./english/a-reference-for-english-reading.md) 一本很全的语法书， 当作字典用。
+
+
 ## 常用工具
 
 1. [**Alfred-有道词典** 扩展](https://github.com/tangx/alfred-youdao): 快速查词
