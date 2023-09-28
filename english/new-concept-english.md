@@ -12,7 +12,7 @@
 
 ## 资源2
 
-全四册PDF + 英音
+全四册PDF + 英音 + 美音
 
-https://github.com/IammyselfBOOKS/New_concept_English
+https://github.com/tangx/New-Concept-English
 
