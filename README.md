@@ -37,7 +37,7 @@
 这里提供两个我自己用的
 
 1. [英孚英语水平测试 - EF](https://www.efset.org/zh/) 在线平台
-2. [**英语流利说**](https://www.liulishuo.com/) App
+2. [英语流利说](https://www.liulishuo.com/) App
 
 ![](./docs/img/level-test-simple.jpg)
 
