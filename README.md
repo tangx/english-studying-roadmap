@@ -62,17 +62,19 @@
 1. [48英语英标 - B站英语兔](https://www.bilibili.com/video/BV1vi4y1C73C/)
 2. [Nessy 自然拼读](https://www.bilibili.com/video/BV1SN411B7ok/)
 
+更多 [辅音和原因](/english/consonant-vowel.md)
+
 **语法**
 
 1. [英语语法精讲合集 (全面, 通俗, 有趣 | 从零打造系统语法体系) - B 站英语兔](https://www.bilibili.com/video/BV1XY411J7aG/)
-2. [不规则动词](./english/irregular-verbs.md) 英语兔 整理。
+2. [不规则动词](/english/irregular-verbs.md) 英语兔 整理。
 
 ## 2.2. 分级课程
 
 前面已经说了， 适合自己的才是最重要的。
 
 1. 启蒙课程： **RAZ、 牛津数、 红火箭** 等都是很好的阶段行课程， 适合小朋友。 跟着点读笔一起学习， 可能需要大人辅导。
-2. 自学课程： B站 [**胶囊助学计划**](https://space.bilibili.com/1078480983) 有一个系列课程讲解 [《新概念英语》系列教材](./english/new-concept-english.md)
+2. 自学课程： B站 [**胶囊助学计划**](https://space.bilibili.com/1078480983) 有一个系列课程讲解 [《新概念英语》系列教材](/english/new-concept-english.md)
     1. [新概念英语（第一册）](https://www.bilibili.com/video/BV1xa411J7jJ/)
     1. [新概念英语（第二册）](https://www.bilibili.com/video/BV1XA4y1o72C/)
     1. [新概念英语（第三册）](https://www.bilibili.com/video/BV1zY4y187cK/)
@@ -90,7 +92,7 @@
 
 ## 2.5. 工具书
 
-1. [《英语阅读参考手册》（叶永昌）](./english/a-reference-for-english-reading.md) 一本很全的语法书， 当作字典用。
+1. [《英语阅读参考手册》（叶永昌）](/english/a-reference-for-english-reading.md) 一本很全的语法书， 当作字典用。
 
 
 ## 3. 常用工具
