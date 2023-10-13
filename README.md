@@ -83,12 +83,17 @@
 
 1. [TED视频字幕下载](http://ted163.com/) 可以根据时常和标题选择难度。 另外还可以下载对应 PDF 文件进行 **精读学习**。 通过 MarginNote 做笔记。
 2. [新概念英语（一册） - 网易云音乐](https://music.163.com/playlist?id=2396882979&userid=74572695) 没事就放着听。 多输入， 才有多输出。
+3. [肯德拉语言学校](https://space.bilibili.com/494288574?spm_id_from=333.337.0.0)
 
 ## 2.4. 口语练习
 
 1. [Susan精讲绘本 | 牛津树*学校版* 1阶](https://www.bilibili.com/video/BV1LJ411j741/), 家里有有小朋友的可以 **模仿** 这种讲解方式。 不同阶段可以使用 **不同复杂度** 的句子。
 2. [AI 对话](https://app.myshell.ai/) 一款根据 ChatGPT 开发的 AI 对话软件。 可以进行口语练习、 纠正。
 3. 其他 App 跟读
+
+### 读音技巧
+
+1. [PTE干货小讲堂 | 什么「是失爆」？什么时候「要失爆」？](https://zhuanlan.zhihu.com/p/144527370)
 
 ## 2.5. 工具书
 
