@@ -5,6 +5,9 @@
 
 在学习之前、 在浮躁的时候， 看看 [荀子《劝学》](https://www.bilibili.com/video/BV1aP411W7Dq/)。 **慢就是快，少就是多； 日积月累，逐渐成神**。
 
+在学习的资料方面， 个人还是比较建议 **成体系的课程**， 而不要过于依赖一些 **一个口诀** 教会你。
+
+![](./docs/img/data-information-knowleage-insight-wisdom-impact.jpg)
 
 ## 1. 开始之前
 
@@ -37,7 +40,7 @@
 这里提供两个我自己用的
 
 1. [英孚英语水平测试 - EF](https://www.efset.org/zh/) 在线平台
-2. [英语流利说](https://www.liulishuo.com/) App
+2. [英语流利说](https://www.liulishuo.com/) App, 参考对照登记 [流利等级对照表](./docs/img/fluent-english-level.jpg)
 
 ![](./docs/img/level-test-simple.jpg)
 
@@ -86,6 +89,15 @@
 3. [肯德拉语言学校](https://space.bilibili.com/494288574?spm_id_from=333.337.0.0)
 
 ## 2.4. 口语练习
+
+
+所有学习到的内容， 还是要 **多联系才能掌握**。
+
+1. 熟读成诵： 锻炼眼口协调。 通过跟读练习 **听、说能力**。
++ 正确断句 -> 无明显发音错误 -> 阅读流利 -> （有能力）连读、弱读、除阻/失爆
+
+2. 看图说话： 锻炼脑口协调， 通过脑子中储备的 **单词、语法** 以及熟读积累的 **肌肉记忆** 练习 **脑、说能力**
++ 造句（简单句、疑问句） -> 丰富情节（形容词、副词、从句: 5W1H） -> 组合完整故事
 
 1. [Susan精讲绘本 | 牛津树*学校版* 1阶](https://www.bilibili.com/video/BV1LJ411j741/), 家里有有小朋友的可以 **模仿** 这种讲解方式。 不同阶段可以使用 **不同复杂度** 的句子。
 2. [AI 对话](https://app.myshell.ai/) 一款根据 ChatGPT 开发的 AI 对话软件。 可以进行口语练习、 纠正。
