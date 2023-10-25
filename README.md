@@ -58,12 +58,15 @@
     2. 英语不是日常用于， 没有大量 **主动/被动输入**。 有意识的单次输入， 很少会有和其他信息的关联。 如果这点比理解， 可以回想对比一下不认识的中文字， 就很好理解了。
 2. 从习惯上： **音标拼读** 和 **拼音拼读** 逻辑一样的。 在拼音罗马化之后， 我们在这方面有天然的优势。
 3. 据说自然拼读规则能覆盖 **70% 以上** 的词， 所有配合音标学习、掌握还是很有必要的。
-
-
 **单词**
 
 1. [48英语英标 - B站英语兔](https://www.bilibili.com/video/BV1vi4y1C73C/)
 2. [Nessy 自然拼读](https://www.bilibili.com/video/BV1SN411B7ok/)
+4. 完结【Pronunciation in Use 全网首发全套系统教程】剑桥国际英语语音在用
+    + [初级](https://www.bilibili.com/video/BV1YV411W71G/)
+    + [中级(上)：L1~26](https://www.bilibili.com/video/BV1Ay4y1j73x/)
+    + [中级(下)：L27-60](https://www.bilibili.com/video/BV1cX4y1U7qT/)
+    + [高级](https://www.bilibili.com/video/BV1sh411H7Wz)
 
 更多 [辅音和原因](/english/consonant-vowel.md)
 
