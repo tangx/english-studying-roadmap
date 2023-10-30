@@ -121,18 +121,12 @@
 
 ## 3. 常用工具
 
-1. [**Alfred-有道词典** 扩展](https://github.com/tangx/alfred-youdao): 快速查词
+1. [**Alfred-有道词典** 扩展](https://github.com/tangx/alfred-youdao): 快速查词 [效果图](./docs/img/alfred-youdao.jpg)
 
-![](./docs/img/alfred-youdao.jpg)
-
-2. [MarginNote](https://www.marginnote.com/) **收费**， [LiquidText](https://www.liquidtext.net/) **基础功能免费** ， 都是 PDF 阅读软件， 可以标注做笔记、写脑图。 
-
-![](./docs/img/marginnote-notes.jpg)
+2. [MarginNote](https://www.marginnote.com/) **收费**， [LiquidText](https://www.liquidtext.net/) **基础功能免费** ， 都是 PDF 阅读软件， 可以标注做笔记、写脑图。 [效果图](./docs/img/marginnote-notes.jpg)
 
 3. [ChatGPT](https://chat.openai.com/) 一个很好的英语辅导老师。 上图中的解释， 就是 ChatGPT 给的。 常用咨询语句如下
     1. 造句： `Create 10 sentences with first and foremost`
     2. 句子解释: `How to understand the following sentence: That top from that Instagram post that went to a charity shop instead of being reworn`
 
-4. [hallelujah 输入法](https://github.com/dongyuwei/hallelujahIM) 英文拼写心里「没底」？这个输入法能把拼音补全为英文：哈利路亚输入法
-
-![](https://raw.githubusercontent.com/dongyuwei/hallelujahIM/master/snapshots/suggestions2.png)
+4. [hallelujah 输入法](https://github.com/dongyuwei/hallelujahIM) 英文拼写心里「没底」？这个输入法能把拼音补全为英文：哈利路亚输入法. [效果图](https://raw.githubusercontent.com/dongyuwei/hallelujahIM/master/snapshots/suggestions2.png)
