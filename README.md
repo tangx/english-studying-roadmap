@@ -106,9 +106,13 @@
 2. [AI 对话](https://app.myshell.ai/) 一款根据 ChatGPT 开发的 AI 对话软件。 可以进行口语练习、 纠正。
 3. 其他 App 跟读
 
-### 读音技巧
 
-1. [PTE干货小讲堂 | 什么「是失爆」？什么时候「要失爆」？](https://zhuanlan.zhihu.com/p/144527370)
+## 2.4.1 口语发音技巧（Spoken Pronounciation Skills）
+
+1. [元音连读 - 加音(instasion)](./english/pronounciation/vowels-instrsion.md)
+2. [`-ed` ending words](./english/pronounciation/ed-ending-words.md)
+3. [PTE干货小讲堂 | 什么「是失爆」？什么时候「要失爆」？](https://zhuanlan.zhihu.com/p/144527370)
+
 
 ## 2.5. 工具书
 
