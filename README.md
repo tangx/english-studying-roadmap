@@ -110,7 +110,7 @@
 ## 2.4.1 口语发音技巧（Spoken Pronounciation Skills）
 
 1. [元音连读 - 加音(instasion)](./english/pronounciation/vowels-instrsion.md)
-2. [`-ed` ending words](./english/pronounciation/ed-ending-words.md)
+2. [`-ed` 结尾单词发音技巧](./english/pronounciation/ed-ending-words.md)
 3. [PTE干货小讲堂 | 什么「是失爆」？什么时候「要失爆」？](https://zhuanlan.zhihu.com/p/144527370)
 
 
