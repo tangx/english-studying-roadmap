@@ -5,11 +5,23 @@
 
 在学习之前、 在浮躁的时候， 看看 [荀子《劝学》](https://www.bilibili.com/video/BV1aP411W7Dq/)。 **慢就是快，少就是多； 日积月累，逐渐成神**。
 
+There are some tips about [**How to learn a language**](./english/daily/how-to-learn-a-language.md) from a teacher in HelloTalk app
+
 在学习的资料方面， 个人还是比较建议 **成体系的课程**， 而不要过于依赖一些 **一个口诀** 教会你。
 
 ![](./docs/img/data-information-knowleage-insight-wisdom-impact.jpg)
 
 ## 1. 开始之前
+
+### 1.0. 学习小组
+
+我们有两个学习小组， 
+
+1. **Wechat**: 我们有一个微信自习小组， 需要先加我微信， 备注: **英语学习** ， 然后拉你进群。
+2. **Hello Talk** 里面的用户信息只能在软件内部分享。 因此我们创建了一个 Hello Talk 的学习小组。
+
+点击 [学习小组联系方式](./docs/contacts/contacts.md), 找到二维码。
+
 
 ### 1.1. 关于英语教材、 培训机构的选择
 
