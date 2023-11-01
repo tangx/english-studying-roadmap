@@ -5,7 +5,7 @@
 
 在学习之前、 在浮躁的时候， 看看 [荀子《劝学》](https://www.bilibili.com/video/BV1aP411W7Dq/)。 **慢就是快，少就是多； 日积月累，逐渐成神**。
 
-There are some tips about [**How to learn a language**](./english/daily/how-to-learn-a-language.md) from a teacher in HelloTalk app
+There are some tips about [**How to learn a language**](./english/daily/how-to-learn-a-language.md) from a **Native Speaker Teacher** in HelloTalk app
 
 在学习的资料方面， 个人还是比较建议 **成体系的课程**， 而不要过于依赖一些 **一个口诀** 教会你。
 
