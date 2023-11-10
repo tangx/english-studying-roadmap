@@ -5,11 +5,23 @@
 
 在学习之前、 在浮躁的时候， 看看 [荀子《劝学》](https://www.bilibili.com/video/BV1aP411W7Dq/)。 **慢就是快，少就是多； 日积月累，逐渐成神**。
 
+There are some tips about [**How to learn a language**](./english/daily/how-to-learn-a-language.md) from a **Native Speaker Teacher** in HelloTalk app
+
 在学习的资料方面， 个人还是比较建议 **成体系的课程**， 而不要过于依赖一些 **一个口诀** 教会你。
 
 ![](./docs/img/data-information-knowleage-insight-wisdom-impact.jpg)
 
 ## 1. 开始之前
+
+### 1.0. 学习小组
+
+我们有两个学习小组， 
+
+1. **Wechat**: 我们有一个微信自习小组， 需要先加我微信， 备注: **英语学习** ， 然后拉你进群。
+2. **Hello Talk** 里面的用户信息只能在软件内部分享。 因此我们创建了一个 Hello Talk 的学习小组。
+
+点击 [学习小组联系方式](./docs/contacts/contacts.md), 找到二维码。
+
 
 ### 1.1. 关于英语教材、 培训机构的选择
 
@@ -106,9 +118,14 @@
 2. [AI 对话](https://app.myshell.ai/) 一款根据 ChatGPT 开发的 AI 对话软件。 可以进行口语练习、 纠正。
 3. 其他 App 跟读
 
-### 读音技巧
 
-1. [PTE干货小讲堂 | 什么「是失爆」？什么时候「要失爆」？](https://zhuanlan.zhihu.com/p/144527370)
+## 2.4.1 口语发音技巧（Spoken Pronounciation Skills）
+
+1. [元音连读 - 加音(instasion)](./english/pronounciation/vowels-instrsion.md)
+2. [`-ed` 结尾单词发音技巧](./english/pronounciation/ed-ending-words.md)
+3. [PTE干货小讲堂 | 什么「是失爆」？什么时候「要失爆」？](https://zhuanlan.zhihu.com/p/144527370)
+4. [YouGlish - You Englilsh](https://youglish.com/) ： 超级好用。 输入任意短语， 直接搜索 youtube 上所有包含的视频， Native Speaker 神器。
+
 
 ## 2.5. 工具书
 
@@ -117,18 +134,12 @@
 
 ## 3. 常用工具
 
-1. [**Alfred-有道词典** 扩展](https://github.com/tangx/alfred-youdao): 快速查词
+1. [**Alfred-有道词典** 扩展](https://github.com/tangx/alfred-youdao): 快速查词 [效果图](./docs/img/alfred-youdao.jpg)
 
-![](./docs/img/alfred-youdao.jpg)
-
-2. [MarginNote](https://www.marginnote.com/) **收费**， [LiquidText](https://www.liquidtext.net/) **基础功能免费** ， 都是 PDF 阅读软件， 可以标注做笔记、写脑图。 
-
-![](./docs/img/marginnote-notes.jpg)
+2. [MarginNote](https://www.marginnote.com/) **收费**， [LiquidText](https://www.liquidtext.net/) **基础功能免费** ， 都是 PDF 阅读软件， 可以标注做笔记、写脑图。 [效果图](./docs/img/marginnote-notes.jpg)
 
 3. [ChatGPT](https://chat.openai.com/) 一个很好的英语辅导老师。 上图中的解释， 就是 ChatGPT 给的。 常用咨询语句如下
     1. 造句： `Create 10 sentences with first and foremost`
     2. 句子解释: `How to understand the following sentence: That top from that Instagram post that went to a charity shop instead of being reworn`
 
-4. [hallelujah 输入法](https://github.com/dongyuwei/hallelujahIM) 英文拼写心里「没底」？这个输入法能把拼音补全为英文：哈利路亚输入法
-
-![](https://raw.githubusercontent.com/dongyuwei/hallelujahIM/master/snapshots/suggestions2.png)
+4. [hallelujah 输入法](https://github.com/dongyuwei/hallelujahIM) 英文拼写心里「没底」？这个输入法能把拼音补全为英文：哈利路亚输入法. [效果图](https://raw.githubusercontent.com/dongyuwei/hallelujahIM/master/snapshots/suggestions2.png)
